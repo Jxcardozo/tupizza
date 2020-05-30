@@ -3,4 +3,4 @@
 <head>
 <title>
 Crea tu pizza</title></head>
-<h1><a herf="index.dm">Ordena aqui</a></h1>
+<h1><a herf="index.md">Ordena aqui</a></h1>
